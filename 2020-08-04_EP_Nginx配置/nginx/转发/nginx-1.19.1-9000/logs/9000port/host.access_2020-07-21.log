@@ -1,0 +1,5 @@
+127.0.0.1 - - [21/Jul/2020:15:45:08 +0800] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [21/Jul/2020:15:45:08 +0800] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:9000/" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [21/Jul/2020:16:37:29 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [21/Jul/2020:16:37:29 +0800] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:9000/" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [21/Jul/2020:16:55:14 +0800] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:9000/" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"

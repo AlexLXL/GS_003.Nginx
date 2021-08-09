@@ -1,0 +1,25 @@
+2020/07/21 15:45:08 [error] 3628#3824: *1 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/07/21 16:01:34 [notice] 4132#3092: signal process started
+2020/07/21 16:01:45 [notice] 772#3952: signal process started
+2020/07/21 16:01:45 [error] 772#3952: CreateFile() "D:\cesc\nginx-1.19.1-9000/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/07/21 16:01:45 [notice] 4204#2184: signal process started
+2020/07/21 16:01:45 [error] 4204#2184: CreateFile() "D:\cesc\nginx-1.19.1-9000/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/07/21 16:01:46 [notice] 5012#4372: signal process started
+2020/07/21 16:01:46 [error] 5012#4372: CreateFile() "D:\cesc\nginx-1.19.1-9000/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/07/21 16:01:46 [notice] 4332#5056: signal process started
+2020/07/21 16:01:46 [error] 4332#5056: CreateFile() "D:\cesc\nginx-1.19.1-9000/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/07/21 16:37:16 [notice] 652#3764: signal process started
+2020/07/21 16:37:16 [error] 652#3764: CreateFile() "D:\cesc\nginx-1.19.1-9000/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/07/21 16:37:29 [error] 2416#3368: *1 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/07/21 16:55:14 [error] 2012#2032: *1 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/07/28 10:52:39 [notice] 5576#2760: signal process started
+2020/07/31 17:14:59 [notice] 4248#3784: signal process started
+2020/07/31 17:15:01 [notice] 6376#6508: signal process started
+2020/07/31 17:15:02 [notice] 5752#464: signal process started
+2020/08/01 09:28:30 [error] 3792#3868: *227 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/favicon.ico" failed (2: The system cannot find the file specified), client: 71.6.199.23, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "157.122.102.171:9000"
+2020/08/03 16:22:28 [error] 3792#3868: *517 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/favicon.ico" failed (2: The system cannot find the file specified), client: 10.139.254.90, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.139.129.38:9000", referrer: "http://10.139.129.38:9000/"
+2020/08/03 16:22:35 [error] 3792#3868: *518 "D:\cesc\nginx-1.19.1-9000/html/epps-web/index.html" is not found (3: The system cannot find the path specified), client: 10.139.254.90, server: localhost, request: "GET /epps-web/ HTTP/1.1", host: "10.139.129.38:9000"
+2020/08/03 16:40:17 [error] 3792#3868: *521 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/epps-web" failed (2: The system cannot find the file specified), client: 10.139.254.107, server: localhost, request: "GET /epps-web HTTP/1.1", host: "10.139.129.38:9000"
+2020/08/03 17:07:43 [error] 3792#3868: *522 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/epps-web" failed (2: The system cannot find the file specified), client: 10.139.254.107, server: localhost, request: "GET /epps-web HTTP/1.1", host: "10.139.129.38:9000"
+2020/08/03 17:08:20 [error] 3792#3868: *522 CreateFile() "D:\cesc\nginx-1.19.1-9000/html/epps-web" failed (2: The system cannot find the file specified), client: 10.139.254.107, server: localhost, request: "GET /epps-web HTTP/1.1", host: "10.139.129.38:9000"
+2020/08/03 17:09:52 [notice] 5884#5284: signal process started
